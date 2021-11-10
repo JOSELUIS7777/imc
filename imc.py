@@ -3,6 +3,6 @@ peso=float(input("Ingresa tu altra en metros"))
 
 imc=masa/altura**2
 
+print("Tu imc es: ")+str(imc))
 
-imc=masa/altura**2
 
